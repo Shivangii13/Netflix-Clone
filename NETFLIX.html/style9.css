@@ -40,9 +40,9 @@ body {
   width: 180px;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  align-self: center;
+  align-items: cover;
+  justify-content: cover;
+  align-self: cover;
 }
 
 .logo {
